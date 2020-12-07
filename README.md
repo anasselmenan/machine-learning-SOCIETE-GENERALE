@@ -1,4 +1,4 @@
-<h1 align="center">Projet de Machine Learning - Société Générale (sous Python)</h1>
+<h1 align="center">Machine Learning - Société Générale (sous Python)</h1>
 
 ## Description courte
 
